@@ -1,0 +1,11 @@
+../Core/Src/wiznet/DNS/dns.c:125:10:get16	1
+../Core/Src/wiznet/DNS/dns.c:134:11:put16	1
+../Core/Src/wiznet/DNS/dns.c:152:5:parse_name	9
+../Core/Src/wiznet/DNS/dns.c:213:11:dns_question	2
+../Core/Src/wiznet/DNS/dns.c:239:11:dns_answer	16
+../Core/Src/wiznet/DNS/dns.c:334:8:parseDNSMSG	13
+../Core/Src/wiznet/DNS/dns.c:412:9:dns_makequery	4
+../Core/Src/wiznet/DNS/dns.c:473:8:check_DNS_timeout	3
+../Core/Src/wiznet/DNS/dns.c:493:6:DNS_init	1
+../Core/Src/wiznet/DNS/dns.c:501:8:DNS_run	5
+../Core/Src/wiznet/DNS/dns.c:560:6:DNS_time_handler	1
