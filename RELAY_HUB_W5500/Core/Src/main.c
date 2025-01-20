@@ -176,7 +176,7 @@ int main(void)
   MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
 	printf("program_Started\r\n");
-
+    printf("program starts succesfully\n\r");
 
 	W5500Init();
 
